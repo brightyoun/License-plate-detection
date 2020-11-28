@@ -1,5 +1,6 @@
 # License-plate-detection
 This project using yolov3  to detection license plate in street using repo : https://github.com/ultralytics/yolov3
+2020.11.29
 # Description 
 Python 3.7 or later with the following `pip3 install -U -r requirements.txt` packages:
 
